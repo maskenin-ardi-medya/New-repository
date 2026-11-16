@@ -3,7 +3,8 @@ Erişim anahtarı yalnızca IG_TOKEN adlı GitHub gizli değişkeninden okunur."
 import json, os, sys, time, datetime, urllib.request, urllib.parse
 
 TOKEN = os.environ["IG_TOKEN"]
-API = "https://graph.instagram.com/v21.0"
+API = "https://graph.facebook.com/v21.0"
+IG_USER = "17841448020450351"  # @maskeninardimedya
 FORCE = os.environ.get("FORCE_CODE", "").strip()
 
 
@@ -37,8 +38,7 @@ for p in items:
     if p["code"] in done and not FORCE:
         print("Zaten yayınlandı:", p["code"])
         continue
-    me = call("GET", "me", fields="user_id,username")
-    c = call("POST", f"{me['user_id']}/media", media_type="REELS", video_url=p["video_url"],
+    c = call("POST", f"{IG_USER}/media", media_type="REELS", video_url=p["video_url"],
              caption=p["caption"], share_to_feed="true")
     cid = c["id"]
     for _ in range(60):
@@ -49,7 +49,7 @@ for p in items:
             break
         if st.get("status_code") in ("ERROR", "EXPIRED"):
             sys.exit("Video işlenemedi: " + json.dumps(st))
-    pub = call("POST", f"{me['user_id']}/media_publish", creation_id=cid)
+    pub = call("POST", f"{IG_USER}/media_publish", creation_id=cid)
     print("YAYINLANDI:", p["code"], pub)
     done[p["code"]] = {"media_id": pub.get("id"), "at": datetime.datetime.utcnow().isoformat()}
     json.dump(done, open(done_path, "w"), indent=1)
