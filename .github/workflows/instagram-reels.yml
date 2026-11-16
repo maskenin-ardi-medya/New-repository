@@ -1,0 +1,31 @@
+name: Instagram Reels
+
+on:
+  schedule:
+    - cron: "0 17 * * *"   # her gün 17:00 UTC = 20:00 Türkiye
+  workflow_dispatch:
+    inputs:
+      force_code:
+        description: "Hemen yayınlanacak video kodu (ör. S10). Boş bırakılırsa bugünün videosu."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reels yayınla
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          FORCE_CODE: ${{ github.event.inputs.force_code }}
+        run: python3 instagram/publish.py
+      - name: Yayın kaydını sakla
+        run: |
+          git config user.name "Maskenin Ardi Bot"
+          git config user.email "maskeninardimedya@gmail.com"
+          git add instagram/published.json 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "Yayın kaydı güncellendi" && git push)
