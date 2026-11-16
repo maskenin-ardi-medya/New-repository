@@ -1,0 +1,907 @@
+1
+00:00:00,000 --> 00:00:00,919
+Sence sen...
+
+2
+00:00:00,880 --> 00:00:03,960
+birine ölümcül bir elektrik şoku verir miydin?
+
+3
+00:00:03,977 --> 00:00:07,880
+Sadece beyaz önlüklü biri sana "devam edin"
+
+4
+00:00:07,728 --> 00:00:08,520
+dediği için?
+
+5
+00:00:09,380 --> 00:00:11,000
+Çoğumuz hayır deriz.
+
+6
+00:00:10,840 --> 00:00:12,600
+Hem de hiç düşünmeden.
+
+7
+00:00:12,500 --> 00:00:15,959
+Ama psikoloji tarihinin en ünlü dört deneyi...
+
+8
+00:00:15,787 --> 00:00:18,439
+bu cevaptan bu kadar emin olmamamız gerektiğini
+
+9
+00:00:18,296 --> 00:00:19,080
+gösteriyor.
+
+10
+00:00:19,979 --> 00:00:23,379
+Bu videoda, sıradan insanları hiç beklenmedik
+
+11
+00:00:23,237 --> 00:00:25,859
+şeyler yapmaya iten dört deneyi inceleyeceğiz.
+
+12
+00:00:25,846 --> 00:00:28,179
+Ve her birinde şu soruyu soracağız:
+
+13
+00:00:28,119 --> 00:00:29,539
+Ben olsam...
+
+14
+00:00:29,366 --> 00:00:30,179
+ne yapardım?
+
+15
+00:00:30,979 --> 00:00:32,259
+Ama önce bir not:
+
+16
+00:00:32,192 --> 00:00:35,140
+Bu deneylerin bazıları bugün ciddi eleştiriler
+
+17
+00:00:34,997 --> 00:00:35,620
+alıyor.
+
+18
+00:00:35,740 --> 00:00:37,860
+O eleştirileri de saklamayacağız.
+
+19
+00:00:37,767 --> 00:00:40,340
+Çünkü gerçeği efsaneden ayırmak...
+
+20
+00:00:40,167 --> 00:00:41,140
+bu kanalın işi.
+
+21
+00:00:42,000 --> 00:00:44,960
+Bin dokuz yüz altmış bir yılı.
+
+22
+00:00:44,808 --> 00:00:46,000
+Yale Üniversitesi.
+
+23
+00:00:46,013 --> 00:00:48,960
+Psikolog Stanley Milgram gazeteye bir ilan
+
+24
+00:00:48,813 --> 00:00:49,360
+verir:
+
+25
+00:00:49,440 --> 00:00:52,240
+"Hafıza üzerine bir araştırma için gönüllüler
+
+26
+00:00:52,093 --> 00:00:52,720
+aranıyor."
+
+27
+00:00:53,580 --> 00:00:56,240
+Gelen katılımcılara "öğretmen" rolü verilir.
+
+28
+00:00:56,220 --> 00:00:58,640
+Yan odada ise bir "öğrenci" vardır.
+
+29
+00:00:58,680 --> 00:01:02,080
+Öğrenci her yanlış cevap verdiğinde, öğretmen
+
+30
+00:01:01,960 --> 00:01:04,320
+ona elektrik şoku verecektir.
+
+31
+00:01:04,147 --> 00:01:05,600
+Ve her yanlışta...
+
+32
+00:01:05,464 --> 00:01:06,800
+voltaj artacaktır.
+
+33
+00:01:06,867 --> 00:01:09,040
+On beş volttan başlayıp...
+
+34
+00:01:08,872 --> 00:01:10,320
+dört yüz elli volta kadar.
+
+35
+00:01:10,760 --> 00:01:13,280
+Katılımcıların bilmediği şey şuydu:
+
+36
+00:01:13,293 --> 00:01:15,680
+Öğrenci aslında bir oyuncuydu.
+
+37
+00:01:15,640 --> 00:01:17,760
+Hiçbir şok gerçek değildi.
+
+38
+00:01:17,720 --> 00:01:20,640
+Ama duvarın ardından gelen çığlıklar...
+
+39
+00:01:20,480 --> 00:01:22,800
+katılımcılar için gayet gerçekti.
+
+40
+00:01:23,528 --> 00:01:26,560
+Voltaj yükseldikçe öğrenci bağırır, duvara
+
+41
+00:01:26,440 --> 00:01:28,640
+vurur, bırakılmak için yalvarır.
+
+42
+00:01:28,587 --> 00:01:29,840
+Sonra...
+
+43
+00:01:29,690 --> 00:01:30,800
+tamamen susar.
+
+44
+00:01:30,800 --> 00:01:33,760
+Katılımcı tereddüt ettiğinde, beyaz önlüklü
+
+45
+00:01:33,600 --> 00:01:35,520
+deneyci sakince şunu söyler:
+
+46
+00:01:35,520 --> 00:01:37,200
+"Devam etmeniz gerekiyor."
+
+47
+00:01:38,100 --> 00:01:41,600
+Deneyden önce uzmanlara sorulduğunda, katılımcıların
+
+48
+00:01:41,480 --> 00:01:44,000
+çok küçük bir kısmının sonuna kadar gideceğini
+
+49
+00:01:43,846 --> 00:01:45,120
+tahmin etmişlerdi.
+
+50
+00:01:45,100 --> 00:01:47,120
+Gerçek sonuç ise...
+
+51
+00:01:46,980 --> 00:01:49,440
+ilk ana deneyde katılımcıların yüzde altmış
+
+52
+00:01:49,293 --> 00:01:52,160
+beşi, dört yüz elli volta kadar devam etti.
+
+53
+00:01:52,700 --> 00:01:55,920
+Milgram deneyi farklı koşullarda da tekrarladı.
+
+54
+00:01:55,900 --> 00:01:58,800
+Deneyci odadan çıkıp talimatları telefonla
+
+55
+00:01:58,640 --> 00:02:01,360
+verdiğinde, sonuna kadar gidenlerin oranı
+
+56
+00:02:01,253 --> 00:02:03,840
+yüzde yirmi civarına düştü.
+
+57
+00:02:03,680 --> 00:02:06,480
+Katılımcının yanında, itaat etmeyi reddeden
+
+58
+00:02:06,320 --> 00:02:08,400
+iki kişi daha olduğunda ise...
+
+59
+00:02:08,227 --> 00:02:09,840
+bu oran yüzde ona indi.
+
+60
+00:02:09,816 --> 00:02:13,840
+Yani otoritenin gücü, büyük ölçüde yakınlığından...
+
+61
+00:02:13,667 --> 00:02:16,240
+ve onu sorgulayan başka seslerin yokluğundan
+
+62
+00:02:16,080 --> 00:02:16,800
+geliyordu.
+
+63
+00:02:17,900 --> 00:02:20,060
+Peki bu insanlar canavar mıydı?
+
+64
+00:02:20,040 --> 00:02:21,100
+Hayır.
+
+65
+00:02:21,100 --> 00:02:24,380
+Çoğu terliyordu, titriyordu, hatta gergin
+
+66
+00:02:24,220 --> 00:02:25,340
+gergin gülüyordu.
+
+67
+00:02:25,540 --> 00:02:27,500
+İtiraz ediyorlardı...
+
+68
+00:02:27,340 --> 00:02:28,700
+ama devam ediyorlardı.
+
+69
+00:02:28,780 --> 00:02:31,700
+Milgram'ın vardığı sonuç şuydu:
+
+70
+00:02:31,590 --> 00:02:34,380
+Sorumluluğu bir otoriteye devrettiğimizde...
+
+71
+00:02:34,220 --> 00:02:36,060
+vicdanımız susmaya başlar.
+
+72
+00:02:36,100 --> 00:02:38,859
+"Ben sadece bana söyleneni yaptım."
+
+73
+00:02:39,510 --> 00:02:42,510
+Bugün bazı araştırmacılar deneyin uygulanışını
+
+74
+00:02:42,370 --> 00:02:43,309
+eleştiriyor.
+
+75
+00:02:43,310 --> 00:02:46,269
+Deneycinin zaman zaman senaryonun dışına
+
+76
+00:02:46,123 --> 00:02:49,149
+çıktığı ve bazı katılımcıların şokların
+
+77
+00:02:49,019 --> 00:02:51,309
+gerçek olmadığından şüphelendiği ortaya
+
+78
+00:02:51,177 --> 00:02:51,790
+çıktı.
+
+79
+00:02:51,829 --> 00:02:54,749
+Ama farklı ülkelerde yapılan tekrarlar...
+
+80
+00:02:54,709 --> 00:02:57,630
+itaatin şaşırtıcı derecede güçlü olduğunu
+
+81
+00:02:57,489 --> 00:02:58,749
+yeniden gösterdi.
+
+82
+00:03:00,049 --> 00:03:02,009
+Bin dokuz yüz elli bir.
+
+83
+00:03:01,942 --> 00:03:04,809
+Psikolog Solomon Asch çok daha basit bir
+
+84
+00:03:04,658 --> 00:03:05,609
+soru sorar:
+
+85
+00:03:05,649 --> 00:03:07,289
+Grup yanılıyorsa...
+
+86
+00:03:07,209 --> 00:03:08,489
+sen ne yaparsın?
+
+87
+00:03:09,139 --> 00:03:11,739
+Katılımcı, yedi sekiz kişilik bir grupla
+
+88
+00:03:11,579 --> 00:03:12,779
+bir masaya oturur.
+
+89
+00:03:12,712 --> 00:03:14,379
+Önlerine bir kart konur:
+
+90
+00:03:14,268 --> 00:03:16,299
+üzerinde tek bir çizgi.
+
+91
+00:03:16,319 --> 00:03:19,339
+Yanındaki kartta ise üç çizgi daha.
+
+92
+00:03:19,279 --> 00:03:20,619
+Soru basittir:
+
+93
+00:03:20,579 --> 00:03:24,139
+Hangisi ilk çizgiyle aynı uzunlukta?
+
+94
+00:03:24,179 --> 00:03:26,179
+Cevap o kadar açıktır ki...
+
+95
+00:03:26,009 --> 00:03:27,339
+bir çocuk bile bilir.
+
+96
+00:03:28,039 --> 00:03:31,579
+Ama gruptaki diğer herkes, aslında araştırmacılarla
+
+97
+00:03:31,423 --> 00:03:33,739
+birlikte çalışan oyunculardır.
+
+98
+00:03:33,646 --> 00:03:35,499
+Ve bazı turlarda...
+
+99
+00:03:35,379 --> 00:03:37,739
+hepsi aynı yanlış cevabı verir.
+
+100
+00:03:37,679 --> 00:03:38,699
+Tek tek.
+
+101
+00:03:38,590 --> 00:03:39,819
+Yüksek sesle.
+
+102
+00:03:39,939 --> 00:03:43,259
+Sıra en sona, gerçek katılımcıya gelir.
+
+103
+00:03:43,686 --> 00:03:44,779
+Sonuç?
+
+104
+00:03:44,719 --> 00:03:47,819
+Katılımcıların yaklaşık dörtte üçü, en az
+
+105
+00:03:47,699 --> 00:03:48,939
+bir kez...
+
+106
+00:03:48,799 --> 00:03:51,499
+gözlerinin gördüğünü bırakıp gruba uydu.
+
+107
+00:03:52,200 --> 00:03:55,339
+Tüm kritik turlar hesaplandığında, verilen
+
+108
+00:03:55,192 --> 00:03:58,059
+cevapların yaklaşık üçte biri yanlıştı...
+
+109
+00:03:57,919 --> 00:03:59,579
+ama grupla aynıydı.
+
+110
+00:04:00,335 --> 00:04:02,119
+Bunu düşün...
+
+111
+00:04:01,959 --> 00:04:04,759
+Bir çizginin uzunluğu bile, yalnız kalma
+
+112
+00:04:04,623 --> 00:04:07,559
+korkusu karşısında tartışmalı hâle gelebiliyor.
+
+113
+00:04:07,679 --> 00:04:09,719
+Peki ya siyasi bir görüş?
+
+114
+00:04:09,619 --> 00:04:10,679
+Bir moda?
+
+115
+00:04:10,579 --> 00:04:13,599
+Bir arkadaş grubunun, birini dışlama kararı?
+
+116
+00:04:14,079 --> 00:04:17,239
+Ama Asch'ın deneyinde umut veren bir ayrıntı
+
+117
+00:04:17,066 --> 00:04:17,959
+da var.
+
+118
+00:04:17,919 --> 00:04:20,599
+Grupta doğru cevabı veren tek bir kişi bile
+
+119
+00:04:20,452 --> 00:04:21,719
+olduğunda...
+
+120
+00:04:21,559 --> 00:04:23,799
+uyma oranı dramatik biçimde düştü.
+
+121
+00:04:23,759 --> 00:04:26,919
+Yani bazen, bir başkasının cesaret bulması
+
+122
+00:04:26,783 --> 00:04:27,639
+için...
+
+123
+00:04:27,479 --> 00:04:28,840
+tek bir ses yeterli.
+
+124
+00:04:30,039 --> 00:04:32,179
+Bin dokuz yüz yetmiş bir.
+
+125
+00:04:32,032 --> 00:04:34,739
+Stanford Üniversitesi'nin bodrum katı, sahte
+
+126
+00:04:34,579 --> 00:04:36,339
+bir hapishaneye dönüştürülür.
+
+127
+00:04:36,379 --> 00:04:39,619
+Psikolog Philip Zimbardo, yirmi dört üniversite
+
+128
+00:04:39,465 --> 00:04:42,019
+öğrencisini yazı tura ile ikiye ayırır:
+
+129
+00:04:41,947 --> 00:04:44,099
+gardiyanlar ve mahkûmlar.
+
+130
+00:04:44,559 --> 00:04:46,659
+Deney iki hafta sürecekti.
+
+131
+00:04:46,579 --> 00:04:48,819
+Ama sadece altı gün sonra...
+
+132
+00:04:48,659 --> 00:04:49,539
+durduruldu.
+
+133
+00:04:49,531 --> 00:04:53,219
+Gardiyanların bir kısmı mahkûmları aşağılamaya,
+
+134
+00:04:53,139 --> 00:04:56,659
+uykusuz bırakmaya, cezalandırmaya başlamıştı.
+
+135
+00:04:56,555 --> 00:04:59,539
+Bazı mahkûmlar ise ağır bir çöküş yaşıyordu.
+
+136
+00:05:00,139 --> 00:05:02,579
+Yıllarca bu deney şöyle anlatıldı:
+
+137
+00:05:02,619 --> 00:05:05,219
+"Kötü durumlara konan iyi insanlar...
+
+138
+00:05:05,067 --> 00:05:06,019
+kötüleşir."
+
+139
+00:05:06,819 --> 00:05:09,539
+Ama son yıllarda ortaya çıkan kayıtlar...
+
+140
+00:05:09,399 --> 00:05:11,379
+hikâyeyi tamamen değiştirdi.
+
+141
+00:05:12,359 --> 00:05:15,039
+Gardiyanların bir kısmının, araştırma ekibi
+
+142
+00:05:14,897 --> 00:05:17,359
+tarafından sert davranmaya yönlendirildiği
+
+143
+00:05:17,212 --> 00:05:17,999
+anlaşıldı.
+
+144
+00:05:17,975 --> 00:05:21,119
+Yani bu davranışlar tamamen kendiliğinden
+
+145
+00:05:20,979 --> 00:05:21,679
+değildi.
+
+146
+00:05:21,699 --> 00:05:24,479
+İki bin iki yılında İngiltere'de yapılan
+
+147
+00:05:24,336 --> 00:05:27,119
+benzer bir çalışmada ise gardiyanlar aynı
+
+148
+00:05:26,969 --> 00:05:28,479
+şekilde zalimleşmedi.
+
+149
+00:05:29,159 --> 00:05:31,759
+Peki bu deneyden ne öğreniyoruz?
+
+150
+00:05:31,659 --> 00:05:33,679
+Belki de en önemli ders şu:
+
+151
+00:05:33,719 --> 00:05:36,479
+İnsanlar kendiliğinden canavarlaşmaz...
+
+152
+00:05:36,419 --> 00:05:39,759
+ama onlara bir rol verilip bir otorite tarafından
+
+153
+00:05:39,619 --> 00:05:41,439
+cesaretlendirildiklerinde...
+
+154
+00:05:41,359 --> 00:05:43,279
+çok daha ileri gidebilirler.
+
+155
+00:05:43,266 --> 00:05:46,239
+Ve bu, Milgram'ın dersine tehlikeli biçimde
+
+156
+00:05:46,099 --> 00:05:46,879
+benziyor.
+
+157
+00:05:47,829 --> 00:05:49,229
+Bin dokuz yüz altmış dört.
+
+158
+00:05:49,149 --> 00:05:50,029
+New York.
+
+159
+00:05:50,042 --> 00:05:53,469
+Kitty Genovese adında genç bir kadın, evinin
+
+160
+00:05:53,329 --> 00:05:56,349
+yakınında saldırıya uğrayarak hayatını kaybeder.
+
+161
+00:05:56,369 --> 00:06:00,029
+Bir gazete, olayı otuz sekiz komşunun izlediğini
+
+162
+00:05:59,909 --> 00:06:02,109
+ama kimsenin yardım etmediğini yazar.
+
+163
+00:06:02,176 --> 00:06:04,749
+Bu haber bütün dünyayı sarsar.
+
+164
+00:06:05,556 --> 00:06:08,349
+Bugün biliyoruz ki o rakam büyük ölçüde
+
+165
+00:06:08,202 --> 00:06:09,429
+abartılıydı.
+
+166
+00:06:09,319 --> 00:06:12,189
+Tanıkların çoğu olayı tam olarak görmemişti
+
+167
+00:06:12,069 --> 00:06:14,429
+ve en az bir kişi polisi aramıştı.
+
+168
+00:06:14,409 --> 00:06:17,509
+Ama bu haber, iki psikoloğu harekete geçirdi.
+
+169
+00:06:18,342 --> 00:06:21,529
+Psikologlar Darley ve Latané'nin deneylerinden
+
+170
+00:06:21,389 --> 00:06:24,969
+birinde, katılımcılar bir odada anket doldururken...
+
+171
+00:06:24,789 --> 00:06:26,969
+havalandırmadan duman gelmeye başlar.
+
+172
+00:06:27,036 --> 00:06:29,849
+Odada yalnız olanların çoğu kısa sürede
+
+173
+00:06:29,689 --> 00:06:31,129
+çıkıp durumu bildirdi.
+
+174
+00:06:31,089 --> 00:06:33,849
+Ama hiçbir şey yapmamaları söylenmiş iki
+
+175
+00:06:33,713 --> 00:06:36,569
+kişiyle birlikte olanların büyük çoğunluğu...
+
+176
+00:06:36,409 --> 00:06:39,169
+duman odayı doldururken bile yerinden kalkmadı.
+
+177
+00:06:39,585 --> 00:06:41,689
+Buna seyirci etkisi denir.
+
+178
+00:06:41,669 --> 00:06:45,129
+Ortamda ne kadar çok insan varsa, her birimiz
+
+179
+00:06:45,009 --> 00:06:47,449
+o kadar az sorumluluk hissederiz.
+
+180
+00:06:47,369 --> 00:06:50,089
+"Biri mutlaka bir şey yapar" diye düşünürüz.
+
+181
+00:06:50,102 --> 00:06:52,889
+Ve herkes aynı şeyi düşündüğünde...
+
+182
+00:06:52,769 --> 00:06:54,609
+kimse hiçbir şey yapmaz.
+
+183
+00:06:55,029 --> 00:06:57,609
+Ama bu etkiyi kırmanın bilinen bir yolu
+
+184
+00:06:57,469 --> 00:06:58,329
+var.
+
+185
+00:06:58,289 --> 00:07:00,689
+Acil bir durumda kalabalığa değil...
+
+186
+00:07:00,539 --> 00:07:02,009
+tek bir kişiye seslen.
+
+187
+00:07:02,089 --> 00:07:04,089
+"Siz, mavi montlu olan...
+
+188
+00:07:03,949 --> 00:07:05,049
+ambulansı arayın."
+
+189
+00:07:05,089 --> 00:07:08,409
+Sorumluluk dağıldığında kimse harekete geçmez.
+
+190
+00:07:08,369 --> 00:07:10,809
+Ama tek bir kişiye verildiğinde...
+
+191
+00:07:10,657 --> 00:07:12,169
+çoğu insan yardım eder.
+
+192
+00:07:13,569 --> 00:07:14,629
+Dört deney.
+
+193
+00:07:14,749 --> 00:07:16,269
+Dört farklı durum.
+
+194
+00:07:16,119 --> 00:07:18,149
+Ama hepsinin söylediği aynı şey:
+
+195
+00:07:18,229 --> 00:07:21,109
+Bizi yönlendiren şey çoğu zaman karakterimiz
+
+196
+00:07:20,949 --> 00:07:21,509
+değil...
+
+197
+00:07:21,400 --> 00:07:23,629
+içinde bulunduğumuz durumdur.
+
+198
+00:07:23,609 --> 00:07:24,549
+Otorite.
+
+199
+00:07:24,456 --> 00:07:25,189
+Grup.
+
+200
+00:07:25,129 --> 00:07:25,909
+Rol.
+
+201
+00:07:25,749 --> 00:07:26,549
+Kalabalık.
+
+202
+00:07:27,149 --> 00:07:29,429
+Ve manipülatörler bunu çok iyi bilir.
+
+203
+00:07:29,469 --> 00:07:31,509
+Sana bir otorite gösterirler.
+
+204
+00:07:31,509 --> 00:07:33,509
+"Herkes böyle yapıyor" derler.
+
+205
+00:07:33,549 --> 00:07:35,109
+Sana bir rol verirler.
+
+206
+00:07:34,962 --> 00:07:37,669
+Ya da seni, sorumluluğu başkasına bırakmaya
+
+207
+00:07:37,496 --> 00:07:38,469
+alıştırırlar.
+
+208
+00:07:39,469 --> 00:07:41,569
+Ama bu deneylerin her birinde...
+
+209
+00:07:41,436 --> 00:07:42,929
+hayır diyenler de vardı.
+
+210
+00:07:42,949 --> 00:07:46,129
+Milgram'ın laboratuvarında deneyi terk edenler.
+
+211
+00:07:46,116 --> 00:07:49,409
+Asch'ın masasında gruba rağmen doğruyu söyleyenler.
+
+212
+00:07:49,489 --> 00:07:51,809
+Dumanlı odada yerinden kalkanlar.
+
+213
+00:07:52,436 --> 00:07:55,249
+Onları farklı kılan şey özel bir güç değildi.
+
+214
+00:07:55,175 --> 00:07:57,329
+Sadece şunu fark etmişlerdi:
+
+215
+00:07:57,289 --> 00:07:59,009
+Durumun gücünü bilmek...
+
+216
+00:07:58,929 --> 00:08:01,249
+ona karşı koymanın ilk adımıdır.
+
+217
+00:08:01,999 --> 00:08:04,529
+Bir dahaki sefere bir otorite sana "devam
+
+218
+00:08:04,382 --> 00:08:05,329
+et" dediğinde...
+
+219
+00:08:05,262 --> 00:08:08,689
+ya da bir grup sana yanlışı doğru diye gösterdiğinde...
+
+220
+00:08:08,542 --> 00:08:09,729
+bu videoyu hatırla.
+
+221
+00:08:09,662 --> 00:08:10,929
+Ve kendine sor:
+
+222
+00:08:10,869 --> 00:08:12,089
+Ben olsam...
+
+223
+00:08:11,929 --> 00:08:12,769
+ne yapardım?
+
+224
+00:08:13,716 --> 00:08:16,609
+Bu deneylerden hangisi seni en çok şaşırttı?
+
+225
+00:08:16,529 --> 00:08:18,089
+Yorumlarda yaz.
+
+226
+00:08:17,977 --> 00:08:19,249
+Maskenin ardında...
+
+227
+00:08:19,116 --> 00:08:20,129
+görüşmek üzere.
