@@ -2,16 +2,20 @@ name: Instagram Reels
 
 on:
   schedule:
-    - cron: "0 17 * * *"   # her gün 17:00 UTC = 20:00 Türkiye
+    - cron: "*/30 * * * *"   # her 30 dakikada bir: zamanı gelen Reels varsa yayınlar
   workflow_dispatch:
     inputs:
       force_code:
-        description: "Hemen yayınlanacak video kodu (ör. S10). Boş bırakılırsa bugünün videosu."
+        description: "Hemen yayınlanacak video kodu (ör. S10)"
         required: false
         default: ""
 
 permissions:
   contents: write
+
+concurrency:
+  group: instagram-reels
+  cancel-in-progress: false
 
 jobs:
   publish:
@@ -27,5 +31,5 @@ jobs:
         run: |
           git config user.name "Maskenin Ardi Bot"
           git config user.email "maskeninardimedya@gmail.com"
-          git add instagram/published.json 2>/dev/null || true
-          git diff --cached --quiet || (git commit -m "Yayın kaydı güncellendi" && git push)
+          git add instagram/published.json
+          git diff --cached --quiet || (git commit -m "Yayın kaydı güncellendi" && git pull --rebase -q && git push)
